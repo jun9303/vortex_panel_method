@@ -4,7 +4,7 @@ Calculating Vortex Strengths of Each Panel for the Vortex Panel Method with the 
 # Language and Environment
 Written in Fortran90 compatible with the Linux GNU gfortran compiler. [LAPACK](https://github.com/Reference-LAPACK/lapack) is required for matrix inversion
 
-![Sample Geometry](https://www.overleaf.com/project/5dba00bbb541450001db30df/file/5dba422ab541450001db5714)
+![Sample Geometry](https://drive.google.com/file/d/1s_A3oSA1bRufd-UQqJIdCOeXWa3vUilE/preview)
 
 # Input (input.in)
   - NPTS: # of total node points
